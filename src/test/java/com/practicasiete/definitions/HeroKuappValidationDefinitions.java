@@ -16,7 +16,7 @@ public class HeroKuappValidationDefinitions {
     }
     @When("he selects the javascript_alerts link")
     public void he_selects_the_javascript_alerts_link() {
-
+        heroKuappValidationStep.ingresar_form_javascrip();
     }
     @When("interacts with the controls on this screen")
     public void interacts_with_the_controls_on_this_screen() {

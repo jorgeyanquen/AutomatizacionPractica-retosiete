@@ -11,5 +11,11 @@ public class HeroKuappValidationStep {
 public void link_Hero(){
 heroKuappPage.open();
 heroKuappPage.verificaHome();
+
+}
+
+@Step
+    public void ingresar_form_javascrip(){
+    heroKuappPage.javascript();
 }
 }
