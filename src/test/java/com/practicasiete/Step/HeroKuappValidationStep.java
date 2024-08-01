@@ -10,5 +10,6 @@ public class HeroKuappValidationStep {
 @Step
 public void link_Hero(){
 heroKuappPage.open();
+heroKuappPage.verificaHome();
 }
 }
