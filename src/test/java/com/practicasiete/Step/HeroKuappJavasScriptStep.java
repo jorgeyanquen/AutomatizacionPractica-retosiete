@@ -12,5 +12,7 @@ public class HeroKuappJavasScriptStep {
     @Step
     public void validacion_botones_HeroKuapp(){
         heroKuappJavasScriptPage.verificarbotonesjsAlert();
+        heroKuappJavasScriptPage.verificabotonesjsConfirm();
+        heroKuappJavasScriptPage.verificarbotonesjsPrompt();
     }
 }
