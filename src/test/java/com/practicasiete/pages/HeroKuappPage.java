@@ -26,7 +26,8 @@ public class HeroKuappPage  extends PageObject {
         assertThat(strMensaje, containsString("Welcome to the-internet"));
 
     }
-    public void javascript(){
+    public void javascript() {
+
         btnjavascript.click();
     }
 }

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3992d501-53e1-4ca9-b05c-dfabfc3bcf6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/practicasiete/Step/HeroKuappJavasScriptStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/practicasiete/pages/HeroKuappJavasScriptPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/practicasiete/Step/HeroKuappValidationStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/practicasiete/Step/HeroKuappValidationStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/practicasiete/definitions/HeroKuappValidationDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/practicasiete/definitions/HeroKuappValidationDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/practicasiete/pages/HeroKuappPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/practicasiete/pages/HeroKuappPage.java" afterDir="false" />
     </list>
